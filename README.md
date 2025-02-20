@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning <br>👯 I’m looking to collaborate on Real world projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Web Development<br>⚡ Fun fact 🎧 "Ctrl + C, Ctrl + V? Nah, I prefer Play + Repeat for my favorite songs!" 🎶💻😆
+🔭 I’m currently working on Machine Learning <br>👯 I’m looking to collaborate on Real world projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Web Development<br>
 
 
 ## 🌐 Socials:
